@@ -41,7 +41,7 @@ Partimos con los datos fuentes en formato .xlsx y se utilizó **Python** y **Pan
 
 Durante el desarrollo del proyecto se hizo uso de librerias como **Seaborn**, **Numpy** y **Matplotlib**.
 
-Finalmente, para la construcción de un dashboard interactivo se utiliza **Power BI**, el cuál se puede [consultar aquí](LINK DEL DASHBOARD).
+Finalmente, para la construcción de un dashboard interactivo se utiliza **Power BI**, el cuál se puede [consultar aquí](https://github.com/rafaelopz1/PI2SiniestrosViales/blob/main/dashboard/Siniestros_viales.pbix).
 Puedes encontrar el [Dashboard online e interactivo aquí](https://www.novypro.com/project/análisis-de-siniestros-viales-en-caba-argentina).
 
 Se usó el control de versiones **Git** para desarrollar y publicar el proyecto en este repositorio.
@@ -54,7 +54,7 @@ Primero, se realizó un proceso de ETL para organizar y limpiar los datos de "HE
 
 Análisis exploratorio:
 
-Luego, se llevó a cabo un análisis exploratorio exhaustivo (EDA) para descubrir patrones en los datos. El objetivo era obtener información útil que las autoridades locales pudieran utilizar para tomar medidas y reducir el número de víctimas mortales por homicidios. Para más detalles sobre el EDA, consulte el [notebook EDA](LINK EDA)
+Luego, se llevó a cabo un análisis exploratorio exhaustivo (EDA) para descubrir patrones en los datos. El objetivo era obtener información útil que las autoridades locales pudieran utilizar para tomar medidas y reducir el número de víctimas mortales por homicidios. Para más detalles sobre el EDA, consulte el [notebook EDA](https://github.com/rafaelopz1/PI2SiniestrosViales/blob/main/EDA.ipynb)
 
 ## Análisis destacados 📊
 
@@ -111,5 +111,5 @@ Finalmente, en el segundo semestre del año 2021 se logró cumplir con el objeti
 
 ## Autor
 Rafael Oropeza
-[Linkedin](https://www.linkedin.com/in/rafael-oropeza-594853151/)
-rafael415oropeza@gmail.com# PI2SiniestrosViales
+[Linkedin](https://www.linkedin.com/in/rafael-oropeza-594853151/) 
+rafael415oropeza@gmail.com
